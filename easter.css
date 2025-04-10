@@ -13,6 +13,36 @@ body {
     cursor: pointer;
     transition: transform 0.3s;
 }
+.egg1 {
+    display: inline-block;
+    width: 100px;
+    height: 130px;
+    background: linear-gradient(45deg, #0a893c, #ffcce6);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.egg2 {
+    display: inline-block;
+    width: 100px;
+    height: 130px;
+    background: linear-gradient(45deg, #49228d, #ffcce6);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.egg3 {
+    display: inline-block;
+    width: 100px;
+    height: 130px;
+    background: linear-gradient(45deg, #4e611a, #ffcce6);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
 .egg:hover {
     transform: scale(1.1);
 }
