@@ -1,11 +1,11 @@
 body {
-    background-color: #f8e8ff;
+    background-color: #a9db14;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 .egg {
     display: inline-block;
-    width: 100px;
+    width: 120px;
     height: 130px;
     background: linear-gradient(45deg, #400104, #ffcce6);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
@@ -15,7 +15,7 @@ body {
 }
 .egg1 {
     display: inline-block;
-    width: 100px;
+    width: 120px;
     height: 130px;
     background: linear-gradient(45deg, #0a893c, #ffcce6);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
@@ -25,7 +25,7 @@ body {
 }
 .egg2 {
     display: inline-block;
-    width: 100px;
+    width: 120px;
     height: 130px;
     background: linear-gradient(45deg, #49228d, #ffcce6);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
@@ -35,7 +35,7 @@ body {
 }
 .egg3 {
     display: inline-block;
-    width: 100px;
+    width: 120px;
     height: 130px;
     background: linear-gradient(45deg, #4e611a, #ffcce6);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
